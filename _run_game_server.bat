@@ -1,0 +1,1 @@
+start Binaries\Win64\ServerTestServer.exe /Game/Maps/TestMap?Game=ServerTest.ServerTestGameMode -LOG abslog="C:\Users\joshm\Desktop\ServerTest.log" -UNATTENDED

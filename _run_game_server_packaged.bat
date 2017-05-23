@@ -1,0 +1,1 @@
+start Q:\Programming\ServerTest\Build\WindowsServer\ServerTestServer.exe -LOG abslog="C:\Users\joshm\Desktop\Quasar.log" -UNATTENDED
